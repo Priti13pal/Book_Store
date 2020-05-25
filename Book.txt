@@ -1,0 +1,2 @@
+Store library is a app which is use to sell books online.
+it will reduce the efforts of the student to go out and purchase a book, we can do iyt online by this.
