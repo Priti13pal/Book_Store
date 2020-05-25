@@ -1,2 +1,6 @@
 # Book_Store
 Hello this project will keep the record of the data related to the second hand books in the database and enable the users to access and get the information by this android application.
+
+In recent times, the advancement in the wireless technology and the growth in market potentials have led to an increase in the number of mobile device users. The emergence of this technology has given rise to rapid development of mobile e-commerce technologies. This brings on-the go Internet access to the general online market world without geographical and time constraints.
+
+This project aims to demonstrate how to design and develop an Android online bookstore application that connects and communicates with a database. The application provides a smooth shopping experience for users, while offering an interactive way of paying for products in the shopping cart. To make online shopping more interactive and user-friendly, the application allows users to register an account, login, search for particular books of interest, sort books in ascending or descending order of price and buy books in the cart with an account. The data are primarily stored on the server but are also loaded and stored on the mobile phone’s firebase in the event of lack of Internet access.
